@@ -16,7 +16,7 @@ For tracking of the time the code ran, the Timer function was used `startTime = 
 
 ![2017 Time](Resources/VBA_Challenge_2017.png)
 
-![2018 Time](Resources/VBA_Challenge_201.png)
+![2018 Time](Resources/VBA_Challenge_2018.png)
 
 ## Summary
 
