@@ -14,9 +14,9 @@ The stock analysis was run for both 2017 and 2018 years for all stocks in the da
 ### Anaysis Execution Times
 For tracking of the time the code ran, the Timer function was used `startTime = Timer` at the begining of the code just after the user inputs the desired year of analysis to run.  The `endTime = Timer` function terminated the time the code ran and a message box was used to show the resulting run times.  This code was `MsgBox "this code ran in " & (endTime - startTime) & " seconds for the year " & (yearValue)`.  See the screenshot images below of the time in seconds the code ran for both years. 
 
-![2017 Time](resources/VBA_Challeng_2017.png)
+![2017 Time](resources/VBA_Challenge_2017.png)
 
-![2018 Time](resources/VBA_Challeng_201.png)
+![2018 Time](resources/VBA_Challenge_201.png)
 
 ## Summary
 
